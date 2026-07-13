@@ -1,4 +1,4 @@
-📈 Retail Sales Forecasting & Demand Analysis
+#📈 Retail Sales Forecasting & Demand Analysis
 
 An end-to-end Machine Learning and Time Series Forecasting project that analyzes retail sales data to uncover business insights, forecast future demand, detect sales anomalies, and segment products for optimized inventory management.
 
